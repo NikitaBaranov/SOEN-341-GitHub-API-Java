@@ -1,4 +1,4 @@
-package ca.concordia.SOEN_341.W17.G4;
+package ca.concordia.SOEN_341W17G4;
 
 import junit.framework.TestCase;
 
